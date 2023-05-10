@@ -1,2 +1,3 @@
 # Work-related_hand_and_wrist_injuries
-To describe the distribution of occupational hand or wrist injuries (OHWIs) in workers seen at the emergency room of a referral hospital in the department of Cundinamarca, Colombia.
+Objective: To describe the distribution of occupational hand or wrist injuries (OHWIs) in workers seen at the emergency room of a referral hospital in the department of Cundinamarca, Colombia.
+Methodology: Retrospective descriptive research using data in medical records of workers who experienced OHWIs and were seen at a second-level hospital in Ubaté, Cundinamarca, between June 1, 2020, and May 29, 2021. The overall frequency of OHWIs, as well as their distribution by sociodemographic, clinical, and occupational variables, were described. In addition, association patterns between sex, anatomical area (fingers, hand, wrist) injured, and type of job were analyzed by Correspondence Analysis (CA).
